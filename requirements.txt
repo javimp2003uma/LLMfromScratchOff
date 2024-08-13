@@ -1,0 +1,6 @@
+matplotlib
+numpy
+ipykernel
+jupyter
+torch
+tiktoken
