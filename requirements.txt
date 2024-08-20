@@ -4,3 +4,4 @@ ipykernel
 jupyter
 torch
 tiktoken
+datasets
