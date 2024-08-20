@@ -1,8 +1,0 @@
-github con los notebooks -> https://github.com/rasbt/LLMs-from-scratch
-
-PARA PODER USAR JUPYTER NOTEBOOK CON EL ENTORNO VIRTUAL QUE HAYA CREADO:
-    - python3 -m ipykernel install --user --name=venv --display-name "venvLLM"
-
-Me he quedado por la pagina 43, punto 2.5
-
-Despues de terminar este curso -> https://course.fast.ai/
