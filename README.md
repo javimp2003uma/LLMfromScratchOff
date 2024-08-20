@@ -4,7 +4,7 @@
 
 ## Overview
 
-Welcome to the **Language Model from Scratch** project! This repository is dedicated to the development of a sophisticated language model designed for advanced text understanding and generation. Using PyTorch and other essential libraries, our goal is to build a robust model capable of processing and generating human-like text with high accuracy. This project encompasses all stages of model development, including data preprocessing, architecture design, training, evaluation, and deployment.
+Welcome to the **Language Model from Scratch** project! This repository is dedicated to the development of a sophisticated language model designed for advanced text understanding and generation. Using PyTorch and other essential libraries, our goal is to build a robust model capable of processing and generating human-like text with high accuracy. This project encompasses all stages of model development, including data preprocessing, architecture design, training, evaluation, and deployment. Before starting the specifications, I would like to thank Sebastian Raschka for his book ‘Build a Large Language Model’, which has inspired me in this project and, together with other supporting documents and videos, has allowed me to carry it out.
 
 ## Features ✨
 
@@ -21,10 +21,8 @@ Welcome to the **Language Model from Scratch** project! This repository is dedic
 - [Data](#data)
 - [Model Architecture](#model-architecture)
 - [Training](#training)
-- [Evaluation](#evaluation)
 - [Deployment](#deployment)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Installation 💻
 
