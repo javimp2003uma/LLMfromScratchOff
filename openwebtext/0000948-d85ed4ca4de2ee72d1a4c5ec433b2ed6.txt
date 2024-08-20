@@ -1,0 +1,95 @@
+The myth of 'mum and dad' property investors
+
+Updated
+
+Property groups want us to believe that average income earners dominate property investment and negative gearing - a closer look at the statistics shows that's a furphy, writes Michael Janda.
+
+There's no doubt that a lot of ordinary, average-income Australians own investment properties, many of which are negatively geared.
+
+If you aren't a property investor yourself, then there's a good chance you know plenty of them, and run into them incessantly at weekend barbeques, weddings, on the golf course, or at a range of other social functions.
+
+That's not surprising, because Tax Office statistics show there are almost 1.9 million individuals who declare rental income or, more typically, make rental losses.
+
+What is surprising is that, according to the Housing Industry Association, nearly three quarters of them earn a taxable income of $80,000 or less.
+
+That's one of the key justifications trotted out for maintaining the current negative gearing regime - that it overwhelmingly benefits ordinary, average-income 'mum and dad' investors.
+
+When the HIA made that claim again this week upon releasing an economic report in defence of negative gearing, it set off my bull-dust detectors big time.
+
+So I went to the source, the ATO's tax stats, to find out the truth.
+
+For those who argue that negative gearing isn't overwhelmingly the domain of society's better-off, the truth hurts.
+
+When I crunched the raw numbers, I did find that 72 per cent of investors indeed earned $80,000 or less in the latest 2011-12 figures (the discrepancy with the HIA figures being that their report used the 2010-11 stats).
+
+But this just didn't tally up with Melbourne University's widely respected Household Income and Labour Dynamics in Australia (HILDA) survey taken every four years that examines the nation's household finances in depth.
+
+Figures compiled by the Reserve Bank from that survey show that investment housing loans are, unsurprisingly, more than twice as common amongst the top fifth of highest-earning households than amongst any other income group.
+
+In its latest Financial Stability Report, the RBA's analysis of HILDA also shows that a whopping 60 per cent of investment housing debt is held by the top fifth of income earners.
+
+That got me thinking about the apparent discrepancy between the RBA data and the tax stats - such a large survey as HILDA surely couldn't have got it that wrong.
+
+An obvious issue with the HIA's use of the ATO data was that it looked at taxable income - after people take out various deductions to lower their tax bills.
+
+When I crunched the numbers, over 60,000 people with investment properties whose taxable income was $80,000 or less had total incomes above that $80,000 threshold.
+
+That takes the HIA's claimed 74 per cent, which is 72 per cent on the latest data, further down to 68 per cent.
+
+But more than two thirds of landlords earning under $80,000 a year still seemed way too high in light of other evidence.
+
+That's when I found the ATO's Excel tables that look at what taxable and total incomes people have declared who collect rent from investment properties.
+
+Almost 74,000 people who declare rental income or losses have a total income of less than $0 - that's right, they either live on nothing or have other means of paying the bills that don't have to be declared to the ATO.
+
+Speaking to tax experts, including Chartered Accountants Australia and New Zealand's Michael Croker and UNSW's Professor Peter Swan, there are a few unverifiable possibilities as to who these people might be.
+
+They could be people who own a property, are losing money on it, but are living off their partners' incomes; they could be people living off savings whose rental losses outweigh any investment income they earn; they could be superannuants drawing on now non-taxed drawdowns and pension streams; maybe they have some sophisticated trust structures which mean they can pay the bills while apparently earning no money.
+
+Or they could be foreign investors.
+
+Rental income or losses are the only earnings that non-resident foreign property investors are likely to have to declare to the Australian Tax Office, as their wages, profits or other investment earnings are likely to be sourced overseas.
+
+Separate ATO data show 50,600 non-residents declared rental income in 2011-12, of which almost all (49,520) earned $80,000 or less in Australia.
+
+So take them out of the HIA figures and you are now down to 65.7 per cent.
+
+That's already a fair bit less than three-quarters, but still more than the HILDA figures would seem to suggest.
+
+However, on top of the 74,000 negative income earners, there are another quarter of a million people declaring rental income or losses who have total incomes below $20,000.
+
+Again, it is highly unlikely that these people could survive if that was their genuine income level, let alone service the mortgages that the 116,000 of them who are negatively geared have.
+
+Completely removing all double counting, if we exclude these people as well, that takes the proportion of landlords earning $80,000 or less down to around 60 per cent - certainly closer to the truth, but probably still overstating the true situation.
+
+The very reason that many housing investors fall below the $80,000 threshold is because they have used negative gearing to slash their tax bill.
+
+That's because the ATO's measure of "total income" includes net, not gross, rent - that is, rental earnings or losses after deductions such as interest payments have already been removed.
+
+The very reason that many housing investors fall below the $80,000 threshold is because they have used negative gearing to slash their tax bill.
+
+The net result of all these calculations could be boiled down to a 'fact check' of the HIA's statement, and the outcome would be 'massively overstated'.
+
+The vagaries of what is counted as income for tax purposes, and of tax deductibility, mean that it is impossible to be sure exactly how many landlords really earn less than $80,000 per year.
+
+One other interesting fact from the ATO's figures is that the average 'total income' of Australian taxpayers was $55,000.
+
+That means that on the way the tax office calculates 'total income' - looking at net rent and net capital gains, and excluding non-taxable items - someone on $80,000 is already a relatively high income earner.
+
+Income by itself is also an incomplete measure of whether these are 'average' Australians - wealth is just as important as income when considering the equality of tax measures.
+
+Many of the sub-$80,000 income earners are self-funded retirees who may own several investment properties, and possibly have a substantial share portfolio or bank balance as well.
+
+Their incomes may be below $80,000 in any given year, but they have the option to liquidate those assets at will to fund their retirement lifestyle.
+
+Given that superannuation drawdowns aren't counted either, it is certain that many of these superannuants are exactly the "so-called wealthy investors" that the HIA claims the tax figures show are so few in number.
+
+A lot of this group may no longer be utilising negative gearing, but it will have undoubtedly assisted them in building up the assets that will give them a comfortable retirement.
+
+For all these reasons, the HILDA data - used extensively by the Reserve Bank - is a much more reliable measure than the Tax Office data on what type of household gets by far the biggest benefit from negative gearing, and it ain't the poor.
+
+Michael Janda is an online business reporter with the ABC. View his full profile here.
+
+Topics: housing, housing-industry, tax
+
+First posted

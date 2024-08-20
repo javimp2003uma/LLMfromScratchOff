@@ -1,0 +1,37 @@
+Image: wireless sensor microchip/UCL
+
+The IEEE Computer Society released a report this week detailing its predictions for the state of computing technology in 2022. No, the Singularity is not part of it: no downloaded personalities or post-human artificial intelligence. It nonetheless sounds a lot like "the future" should, with wearable, implantable nanotechnology and batteries that hold charges for months on end, just a more comprehensible future, one that doesn't involve sudden innovative inflationary periods or out-of-the-blue discoveries.
+
+Technology follows a trajectory.
+
+"Predicting the future in the computer industry is even harder and riskier due to dramatic changes in technology and limitless challenges to innovation," the IEEE CS report begins. "Only a small fraction of innovations truly disrupt the state of the art."
+
+"Some [innovations] not practical or cost-effective, some are ahead of their time, and some simply do not have a market," the report continues. "There are numerous examples of superior technologies that were never adopted because others arrived on time or fared better n the market. Therefore this document is only an attempt to better understand where technologies are going."
+
+The report is the product of nine technical leaders within the IEEE Computer Society surveying the current states and progressions of 23 different technologies, including,
+
+3D printing, big data and analytics, open intellectual property movement, massively online open courses, security cross-cutting issues, universal memory, 3D integrated circuits, photonics, cloud computing, computational biology and bioinformatics, device and nanotechnology, sustainability, high-performance computing, the Internet of Things, life sciences, machine learning and intelligent systems, natural user interfaces, networking and inter-connectivity, quantum computing, software-defined networks, multicore, and robotics for medical care.
+
+This authors took the above listed technologies and examined them in light of different drivers and disruptors. The relative weights of technological drivers there were able to determine are indicated in the chart below.
+
+Disruptors:
+
+So, what does it all add up to? A key projection of the IEEE report is the "seamless intelligence scenario. Computing devices—from the very small, such as wearable devices and chips embedded under the skin, to the computers inside our mobile devices, laptops, desktops, home servers, TV sets, and refrigerators, to the computing cloud that we reach via the Internet—are interconnected via different communication and networking technologies," the report explains.
+
+"Together, they form an intelligent mesh," the authors continue, "a computing and communication ecosystem that augments reality with information and intelligence gathered from our fingertips, eyes, ears, and other senses, and even directly interfaced to our brain waves." It's the internet of things, where we ourselves become a thing.
+
+The report is really a series of reports, each one examining each of the aforementioned 23 technologies in great detail. It's open-access and worth a deep dive.
+
+Some other highlights include a worrisome note about the looming limits of classical computer systems, as they shrink to their absolute minimum and effectively put the brakes on Moore's law. Computers as we know them will stop getting faster and smaller—soon. The authors seem hopeful that quantum computing can save the day, but as to whether practical QC will be ready in time is unsettled.
+
+Advances in computer memory will help stave off this Moore's wall, at least. I've written here before about the profound limits current memory systems are putting on computing power. Computers may get faster, but they're not gaining memory access speed nearly as fast. The hope is for a "universal memory" system to save the day, in which SRAM, DRAM, hard-drive, and flash memory are all integrated into one quickly accessible and extremely small system. In the future, hard-drive access could be as quick as it is for an actual logic unit to access its own registers (the slivers of memory within the unit itself).
+
+"We expect at least one NVM [non-volitile universal memory] technology to reach maturity and volume manufacturing capabilities within the next three to five years," the IEEE team predicts. By 2022, it's reasonable to expect a "collapsing" of the memory hierarchy into a single (or near to it) uniform technology. There will still be organization, of course, but all within the same basic superfast device.
+
+Fortunately, medicine seems less likely to hit a fundamental limit than computers. "Imagine your life being saved by a custom-designed medical machine made from particles 50,000 times as small as a single strand of your hair," the report offers. You might be living with a fleet of diagnostic bots just cruising around inside your body, looking for trouble and fixing it. A proper auxiliary immune system.
+
+In Wired, the IEEE's Dejan Milojicic, makes a valiant effort at summarizing the report's other key findings, which are extensive. "With energy consumption increasing along with the world's population, electric cars, LEDs, smart grids, smart cities, dark silicon, new battery technology, and new ways of cooling data centers are some areas where advances in sustainability are expected," he writes.
+
+"Silicon photonics will address bandwidth, latency, and energy challenges, and developments at all levels of the network stack will continue to drive research and the Internet economy," Milojicic continues. "In the area of software-defined networks, OpenFlow and SDN will make networks more secure, transparent, flexible, and functional."
+
+Fortunately, predicting the future isn't solely the realm of futurists, but of scientists too. In some ways that's just as hopeful.

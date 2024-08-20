@@ -1,0 +1,105 @@
+Another day, another batch of mostly redundant and anonymously sourced stories about whether Vice President Joe Biden will run for president. Some of those stories, however, are getting ridiculous. So FiveThirtyEight’s politics writers met in Slack to pick over the latest Biden coverage, our own assumptions and the state of the 2016 Democratic primary. This is an edited transcript of the conversation.
+
+micah (Micah Cohen, senior editor): So, the will he/won’t he speculation about Joe Biden hasn’t slowed down, but do either of you buy the argument that a Biden run could actually help Hillary Clinton?
+
+hjenten-heynawl (Harry Enten, senior political writer): I don’t think it would be particularly helpful to Clinton. Forget about all the BS about whether Clinton runs better when she’s in trouble. Personally, I never got that. If she were so good at running when she was in trouble, then why did she lose in 2008?
+
+Rather, why would Biden run? Sure, he’s in his 70s and this is his last shot, but he also has a family to take care of. He’d likely only run if he concludes he has a better than nominal chance of winning. And that conclusion would be quite different from what the current metrics, such as endorsements, suggest. Biden may have an insight on the invisible primary that isn’t visible to the rest of us.
+
+natesilver (Nate Silver, editor in chief): The irony is that the media has exaggerated all sorts of threats to Clinton, who remains in good shape for the nomination. But then you have the one thing that would be a tangibly bad sign for her campaign — the vice president of the United States running for the nomination against her! — and there are lots of “smart takes” about how it could help Clinton.
+
+hjenten-heynawl: What we’ve argued this entire time is that Sen. Bernie Sanders has a weakness among the party actors (i.e., he doesn’t have any endorsements), and that he has no longtime connections to the Democratic Party (remember, he’s not a Democrat). Biden, on the other hand, has been in major federal office in Washington since 1973. He’s someone who could conceivably reach out to all members of the party. He’s already polling better among African-Americans than Sanders, for instance.
+
+micah: Let’s break this down a little: Both of you seem to think Biden entering the race is inherently bad for Clinton — he’d be the most serious competition for the nomination she’s faced. But would there be a couple side benefits, like that by giving the media a horse race to cover, there would be less focus on Clinton’s scandals?
+
+natesilver: Well, first of all, it’s not just that Biden would be a more formidable competitor to Clinton than Sanders. I don’t know that Biden would be all that great a candidate, in fact. But Biden running would signal that concern about Clinton among Democratic Party elites had gone from the bedwetting stage to something more serious.
+
+micah: Is bedwetting not serious?
+
+hjenten-heynawl: I mean, it depends how old you are.
+
+natesilver: But the other big problem (as we and others have pointed out before) is that Biden doesn’t have much rationale to run other than if Clinton has “trust”/scandal problems. He might never come out and say it, but that would be the whole basis for his campaign. They don’t really differ in any meaningful way on policy.
+
+micah: But your logic seems circular: “Biden will only enter the race if Clinton is in big trouble, and therefore if Biden enters the race it means Clinton is in trouble.” What if all the party actors are telling Biden that he shouldn’t run, that they’re backing Clinton, and Biden just wants to run? It’s his last chance. And he enters the race.
+
+natesilver: What I’m saying is that there’s a lot of information we’re not privy to, about what Democratic elites are thinking. Sure, there’s some reporting on it, but a lot of that reporting needs to be looked at skeptically — like because it relies on anonymous sourcing, or cherry-picked information from a media that would like to make the race seem competitive. The one tangible sign we have about what Democratic elites are thinking — endorsements — looks really good for Clinton. But Biden running would be a tangible sign too.
+
+Contra Maureen Dowd or whatever, this isn’t necessarily a personal decision for Biden, or at least not entirely one. He’s a party guy. He’s the vice president. He’s not likely to run unless he thinks it’s in Democrats’ best interest.
+
+hjenten-heynawl: Endorsements are merely a proxy for intra-party support. And proxies are wrong from time to time. They’re imperfect. And I don’t buy Biden is desperate to run. He reportedly indicated this week in a phone call with Democratic National Committee members that he and his family are grieving. The man lost his best friend and son. He wants to be there for his family. If I lost my father (my best friend), I don’t take off running for president just because I feel like it. I run because I think I can help my party, and because I think I can win.
+
+natesilver: Right. It’s possible that Biden assesses the problem and miscalculates. But running for president would be a calculated decision on his behalf.
+
+And, by the way, if you read the reporting on Biden carefully, it suggests that the decision is very, very calculated. He’s taking as long as possible to decide whether to enter — and at a time when it’s already pretty darn late to begin a campaign — because he wants to collect more information on whether Clinton’s in trouble or not.
+
+hjenten-heynawl: BINGO. He’s meeting with a ton of people who represent different wings of the party, such as Sen. Elizabeth Warren and Richard Trumka (head of the AFL-CIO). He’s doing that, one would think, because he wants to understand what they are seeing. What are their people, their constituents, telling them.
+
+micah: OK, so let’s say Biden gets in. The night before he announces, he’s sitting with his family and some advisers and they’re talking about why they can beat Clinton (based on everything they hear during these weeks of meetings). What are they saying? Does it all come down to email/scandal? Or would they be pointing to something else in the Clinton campaign or electorate? (I want data.)
+
+natesilver: If you want data, and Biden’s camp is looking at the same data, then they shouldn’t be running in the first place. Unless they think the scandal will be Clinton’s undoing.
+
+Clinton remains extremely popular with Democrats, and that popularity is pretty broad-based. White liberals might not like her as much as white moderates, Hispanics, or African-Americans, but as we’ve argued before, their support for Sanders is more an indication that they like him than that they dislike Clinton.
+
+Some of the reporting around what Biden’s coalition would be doesn’t make any sense. See, for example, from Politico:
+
+Biden’s circle has identified what they see as their potential voting blocs: Reagan Democrats, Jews, an LGBT base that largely credits him with pushing President Barack Obama into supporting gay marriage, and Rust Belt voters. They believe he’ll benefit from better stump skills than any of the other candidates running.
+
+There’s no evidence that any of these groups are weaknesses for Clinton. Nor are they all that large, nor do they have very much in common.
+
+micah: What about the Quinnipiac poll out this week showing Biden running better than Clinton against Republicans in general election matchups? And that voters don’t think Clinton is trustworthy or honest?
+
+natesilver: I don’t think you can compare a declared candidate in Clinton — who’s been getting a ton of scrutiny from the press, some deserved and some not — against a hypothetical candidate who has a halo around him because the press would love to see a huge fight for the nomination.
+
+Over the long run, Clinton’s favorability numbers have been no worse than Biden’s. Often a little better.
+
+hjenten-heynawl: General election polls of candidates who aren’t running in the primary are ridiculous. Once he enters, all of Biden’s faults will be put on the table. And there are a lot to play with. If there weren’t, he’d have done better when he ran in past elections.
+
+micah: From the WSJ writeup of the Quinnipiac poll:
+
+The Quinnipiac poll found that 51% of voters have an unfavorable impression of her, her worst score ever on that measure. The poll also found that 61% of voters say she is not honest and trustworthy, another record low. On the honest and trustworthy question, that is up from 57% in a July Quinnipiac poll.
+
+natesilver: Here’s the problem, Micah. Lots of people, political reporters especially, believe in momentum. If something goes from 50 to 45 percent, they assume it will keep going down, until it hits 40, 35, etc.
+
+But empirically, the opposite is closer to being true. At least when it comes to polling.
+
+If something goes from 50 to 45, it’s more likely to bounce back to 50 than to continue declining. Mean-reversion tends to be stronger than momentum. At least over the long term — the short term is sometimes a different story. But it’s the long term we should be concerned with, given that it’s still only August.
+
+The Clinton who has a 42 percent favorability rating today isn’t really all that different than the one who had, I dunno, a 52 percent favorability rating at the start of the campaign, or a 48 percent favorability rating when she was running in 2008, or whatever. She is different than Clinton as secretary of state or first lady, because those are closer to being nonpartisan positions. So she can’t expect to see those numbers again, at least not while she’s a presidential candidate. But the odds are that her favorability ratings would revert to the mean by Election Day next year, which in her case means about 50/50.
+
+hjenten-heynawl: Remember when there was talk about whether Chris Christie would get into the 2012 race? Or whether Fred Thompson would get into the 2008 race? Or Wesley Clark into the 2004 race? Those guys were tied or leading in the primary polling at the time. Biden’s best percentage so far has been 18 percent. He’s down nearly 30 percentage points to Clinton. Clinton is still in a ridiculously strong position.
+
+natesilver: Yeah, I saw some article that offhandedly asserted Biden was polling exceptionally well given that he wasn’t in the race yet. Polling at 12 percent or 15 percent or 18 percent among members of his own party doesn’t seem that great to me for a guy who is vice president of the United States.
+
+hjenten-heynawl: But we don’t have all the information. We believe Clinton is strong based on polling, money and support from party actors. If Biden were to enter, though, it says to us that he has a piece of information that we aren’t privy to. And this information is that Clinton is weak — for whatever reason. If he doesn’t enter, it’s a confirmation that she is strong within the party.
+
+natesilver: Part of this is looking for verifiable evidence in an environment where the media has an interest in overrating how competitive the Democratic race is.
+
+By most objective measures, Clinton is doing really well in the nomination hunt. About as well as any non-incumbent candidate has been doing up to this point in time. So, on the one hand, we look at that data and it makes us skeptical that Biden will convince himself to run. On the other hand, it means we have more reassessment to do if Biden in fact does run.
+
+micah: OK, let’s say Biden gets in. How does he win? Does he come in guns blazing on email and trustworthiness? Does he claim the Obama mantle?
+
+natesilver: How does he run or how does he win? I’d guess that his messaging would be rather cryptic at first. Because the way he wins is basically if Democrats decide that Clinton is too much of a liability because of her scandals. But Biden doesn’t want to come right out and say that. Debating Clinton on policy is also awkward, though, given that they have few real differences. And that, to the extent they do, one of them is going to be criticizing the Obama administration’s policy, which is an odd look for an incumbent party trying to win another term in office.
+
+hjenten-heynawl: Let’s start with this: Clinton must perform disappointingly in the Iowa caucuses. If Clinton wins in Iowa by a convincing margin, this thing is going to take off. I don’t know how Clinton loses in Iowa, necessarily, but that’s where it needs to begin. Biden cannot wait until later states to take her on. Her money and momentum will be too great. So it’s Iowa or bust. Now, it could be that Sanders comes close in Iowa — it doesn’t have to be Biden, but he’s gotta do reasonably well.
+
+natesilver: Yeah, I agree. I mean, one way Biden wins is if there’s some new scandal (or some new wrinkle to the email scandal) that’s so bad Clinton drops out. That’s sort of obvious, I suppose.
+
+Short of that, it might come down to the timing. Say there’s some bad news for Clinton that drops a couple of weeks before Iowa. Iowa is taken as a referendum on her campaign, and she fails that referendum.
+
+micah: And what happens to #feelthebern if Biden jumps in?
+
+hjenten-heynawl: I think he continues on the path it was on. He’ll continue to get white liberals and that’s about it. I guess you could argue one way or another whether this slightly boosts his odds, but I think it doesn’t help him. If anything it could steal attention away from him as the anti-Clinton.
+
+natesilver: Yeah, I don’t think Sanders’s support will be affected that much. At the margin, it might make it easier for him to win the plurality in a caucus state here or there. But Bernie will keep on Bernin’.
+
+What I don’t think we’re likely to see is a case where the Clinton-Biden fight drags out for months and months, and then we’re all doing a bunch of delegate math, involving Clinton and Biden and Sanders, in May. As Harry said earlier, a Biden candidacy would either gain traction or collapse pretty quickly based on how it did in Iowa and New Hampshire.
+
+hjenten-heynawl: Support for an anti-Clinton is either there or not.
+
+micah: So on our initial question — “Could a Biden run help Hillary Clinton?” — we think the answer is: “No. And also, it probably wouldn’t affect Sanders much either.”
+
+Is that right?
+
+natesilver: A Biden run would be the worst news Clinton has had so far in the campaign. She’d still probably be the favorite, however.
+
+Read More: Joe Biden Made the Right Call

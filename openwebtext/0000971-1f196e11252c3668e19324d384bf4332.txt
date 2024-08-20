@@ -1,0 +1,19 @@
+I’m conflicted. As a front-end web developer, I should be excited about the advancements in HTML5: the new HTML tags that correct all the hacks and self-replicating div s; the correctly cross-browser rendered styles which have finally caught up to modern web design; and the new Javascript API’s that make the browser into a semi-legitimate – albeit Frankensteinian – app environment.
+
+Then I read this presentation on HTML5, and suddenly, I’m a lot less excited. It’s one thing to formalize the hacks developers have come up with over the years and standardize them into a cohesive spec, but with the renewal of the browser wars, it feels like an escalating feature war all over again.
+
+Google has taught us, over the years, that it’s possible but difficult to build complex applications completely in the browser. Google+, Gmail, Google Docs are written with many millions lines of carefully hand-crafted front-end code[1]. Careful coding, because the development environment is markedly unfriendly: loose HTML parsing, undefined and silently-failing CSS styling, and ironically unforgiving Javascript interpretation.
+
+For a while, this was the accepted state of the web development world: the pieces didn’t really fit together, but with enough brute force you could make things work, even across browsers if you really put in that 50% extra effort. When that wasn’t good enough, browser vendors raced to introduce new features, knowing the spec would take a decade or more to be ratified.
+
+The new API’s were great, but they necessitated defensive coding in languages not suited for it (e.g., enabling the styling of HTML5 tags in IE’s not recognizing HTML5 with the appropriately-named html5shiv). It also brought about the idea of graceful degradation, where you not only have to worry about getting the functionality to work properly as it is coded, but also somewhat work when functions, features and entire languages are ripped away via browser incompatibilities and user preferences.
+
+Nowadays it seems like we’re just going full-steam-ahead, damn the compatibility issues. With the pace of browser releases picking up – Google’s at the forefront with rapid Chrome releases, Firefox following suit – it’s nice to have new API’s to play with, but it reeks of the Microsoft-style, proprietary add-ons to an already-crowded and piecemeal coding “ecosystem”.
+
+Having to support 3-4 major browser was already a pain, but supporting 7-8 various browser versions is impossible. Even worse, only Chrome is really set up for rapid client releases; Firefox, for instance, is trying to release more often, but has already claimed its first casualties with a legacy plugin system[2] that wasn’t designed for malleable software versioning. In other words, a lot of add-ons just stopped working with the upgrade, despite how similar FF5 was to FF4.
+
+Adding even more features that is basically implemented in the 3rd-place browser further bifurcates web development: either make full use of new technologies and create cool demos that target a small subset of platforms, or work across all modern platforms targeting a wide audience while sticking with more mundane design and coding techniques. I think most of us who have to work on the web fall into the latter camp by business necessity; it’s only in our spare time that we can try out the new stuff, but with no real hope to transfer what we learn back work-related tasks.
+
+Although…now that I think about it, there is a platform for the former group of adventurous web coders.
+
+Chrome OS. It suddenly makes a little more sense.

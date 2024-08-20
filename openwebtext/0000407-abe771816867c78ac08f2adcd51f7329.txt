@@ -1,0 +1,9 @@
+A number of the recent improvements made to Dropbox have focused around greater integration with Microsoft Office. The companies announced a partnership last fall, and you can now do things like open Office files in your Dropbox directly in Office Online, with changes being automatically synced back to the original file through Dropbox. Today, yet another new Office-related feature is being announced: the Dropbox app for iOS will soon let you create Office documents right inside it, without having to jump to another app.
+
+Presumably, the files are then saved to your Dropbox folder and can be accessed through Office Online or the traditional desktop apps. We haven't had a chance to try it out yet and see if it truly offers the same features you'd find creating files through Microsoft's apps, but it's certainly an intriguing way for Dropbox to take on the Google Drive / Docs combo. Dropbox says the feature will be available "later this month."
+
+Office document creation is the standout new feature here
+
+Dropbox is also building on the commenting feature added last week. The feature lets users leave remarks on shared files that all other collaborators could see; you can now make and view those comments in the iOS app as well as through the web. Today's update also includes a slight navigation change. Rather than seeing simply an alphabetical list of your files and folders, the default Dropbox app view will instead show your most recently used files — that's anything you've uploaded, viewed, renamed, or edited on any device. While all these features are useful enough, the most intriguing feature here is definitely the upcoming Office document creation — we'll be keeping our eyes peeled to see exactly how that works.
+
+Update, May 5th 11:34 AM ET: This article has been updated to reflect that comments are now available on iOS as well as the web.

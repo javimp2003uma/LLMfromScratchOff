@@ -1,0 +1,21 @@
+Humanoid robots are a vanity project: an attempt to create artificial life in our own image – essentially trying to play God. The problem is, we’re not very good at it. Ask someone on the street to name a robot and you might hear “Terminator”, “the Cybermen” or “that gold one from Star Wars”. What you’re not going to be given are names like Tesla Model X, Cassini or DJI Inspire 2. These are all robots, but they don’t follow the sci-fi narrative of what robots should be like. The fact is, the robots of the near future won’t be going about on two legs like the shuffling C3PO. And they’ll be much more efficient than us bipeds.
+
+Our impression of what a robot is has been tainted by science fiction and popular culture. The term “robot” was first used in 1920 by Karel and Josef Čapek in a play called R.U.R. to describe an artificial automaton. Since then, our narcissistic desires have seen the word become synonymous with humanoid robots, or androids.
+
+We like to think that we’re the dominant creatures on the planet, so mobile robots should look like us. But the fact is, they shouldn’t. We can’t fly, we’re not very good swimmers, we can’t live in a vacuum and if we want to travel more than a mile, most of us will get on some type of wheeled vehicles. Bipedal locomotion has served us well but it is limited and requires a huge amount of brain power and years of learning to perfect. The computer versions of our brain are nowhere near our level and are unlikely to be so for decades to come. After nearly 100 years of development, our most advanced humanoid robots can only just open a door without falling over (too often).
+
+Is a plane a robot?
+
+So what is the future of robotics? Well, it comes down to what you define a robot as. Unfortunately there isn’t a unified definition of what a robot is, but the general consensus is that it’s a physical device which can sense its surroundings and interact with the environment with limited human intervention. This could either be automation, where tasks are pre-programmed, or autonomy, where the robot makes decisions on its own.
+
+Let’s say that I build a little four-wheeled robot that can move from point A to point B without crashing into anything. I can give it a map and tell it where to go and it will do so without any further instructions. This sounds quite nifty, but what’s the point of it? Well now let’s scale it up so you can sit in it. Now suddenly it’s not a robot, it’s a driverless car. But all that’s changed is the size.
+
+I now want to fly off on my holidays. I quite happily get on the plane and see the two pilots in the cockpit. When I land, they’re still there and I think what a great job they did. More than likely though, the pilots didn’t actually fly the plane. They will have inputted commands to the autopilot and the computer will have flown the plane. The plane, for all intents and purposes, is a robot with human supervisors to take over if anything goes drastically wrong, just like a driverless car.
+
+Planes, trains automobiles … and robots
+
+The future of nearly all transport is mobile robots. We’re already there with robotic aircraft and within the next decade, we’ll have robot cars. Robots already fly through space and scour the bottom of the ocean. It won’t be too long before we have driverless trains and trams too. Drones will become a bigger part of society. All these things are robots, but they’ve had to be called something else due to societal impression of what a robot is.
+
+What this highlights is that we adapt the technology to fit the environment. Rather than building robots that look like us so that they can be a direct replacement, you’ll start to see things being built to suit a problem. Why do you need a robot with complex hands to pick up a pair of scissors or a hammer, when it can be built into their arms? Why build a robot to climb over debris in an earthquake on two legs, when four or six legs – or a wheeled track – would be much more stable?
+
+There is no doubt that eventually androids will be walking around and talking with us. You’ll pass them wandering down the street or hold a conversation with one as you do your shopping. But for now, the robots of the near future won’t walk like us. Instead they’ll drive, they’ll fly, they’ll swim or they’ll walk on any number of legs – except two.

@@ -1,0 +1,17 @@
+FILE- In this Friday, May 18, 2012, file photo, a child looks at a laptop displaying Facebook logos in Hyderabad, India. Facebook said Monday, June 4, 2012, it is testing out ways to allow younger kids on its site without needing to lie. (AP Photo/Mahesh Kumar A., File)
+
+Facebook has finally forgotten about that drunken night in college when you vomited on that one friend who never talked to you again. Any deleted photo from that episode, or any photo deleted by users for whatever reason, has finally been removed from the social network's servers, it appears.
+
+(Now if only your friend could permanently forget about the incidence too.)
+
+Since 2009, Ars Technica's Jacqui Cheng has doggedly tracked how long it takes big photo-sharing sites to permanently delete photos after a user hits "Delete." Her method was simple: save a photo's URL, delete the photo and wait to see how long it takes for the link to die. For Twitter and Flickr, it took seconds. For MySpace (remember that?), it took months. But for Facebook, Cheng found it could take years.
+
+In some cases, photos deleted in 2009 were still on Facebook servers in 2012. In February, Facebook explained to Cheng "[w]e have been working hard to move our photo storage to newer systems which do ensure photos are fully deleted." Now, Cheng is happy to report that she has "tested this with two photos while saving their direct URLs, and both photos became inaccessible within two days of deletion." Her readers got similar results.
+
+First, let us say, Good job, Facebook. Like how we train a dog, we ought to reward good behavior as well as punish bad. The media, rolling up its newspaper, has knocked Facebook on the nose for many no-nos: swapping users' listed email addresses for Facebook addresses, accidentally showing people's private chats to the public, to name a few snafus. We're glad to finally give Facebook a treat.
+
+But why did this take so long to implement?
+
+"The systems we used for photo storage a few years ago did not always delete images from content delivery networks in a reasonable period of time even though they were immediately removed from the site," Facebook told Ars Technica on Thursday. During its period of massive growth, Facebook apparently found it difficult to expand its servers and delete photos in a timely fashion. But now that new photo storage, installed in February, apparently deletes photos within 30 days, according to Facebook.
+
+Perhaps what this tells us several months later is that Facebook wanted to get serious about privacy -- including making sure that unwanted photos weren't being stored after users tried to delete them -- as it hurtled toward its initial public offering in May. As a publicly traded company, it's reasonable to expect Facebook to be more sensitive to privacy concerns.

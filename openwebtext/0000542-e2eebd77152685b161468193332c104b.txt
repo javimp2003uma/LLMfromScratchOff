@@ -1,0 +1,77 @@
+
+
+
+
+Img Project Descripton Backers Pledge / Goal / % +1 Button CoMo Booster Board for Rpi Module with: wifi, oled screen, digital audio, RTC, 6-36v power input. 55 $6,834 / $40,000 / %17
+
+ZIR EL-200 "ZIR EL-200 is connected to your computer, smartphone or tablet using Wi-Fi wireless network, and from there we set or directly assign instructions using the browser. However, one of its most interesting features is the ability to also be controlled by voice, using for that purpose applications on iOS and Android." 60 $5,012 / $90,000 / %5.6
+
+1080Pi 10" 1080p Screen that mounts to the Rpi GPIO with 16 extra GPIO, 4 with 3A sinking current. 189 £20,451 / £100,000 / 20%
+
+
+
+RFberryPi A 433Mhz Radio Shield used to communication with several peripherals such as relays & sensors. 14 £321 / £4,850 / 6.6%
+
+
+
+SerialPi5 Board giving the Rpi the ability to have 5 RS-232 serial ports. 5 £261 / £11,000 / 2%
+
+
+
+Jilia Iot Dev Kit "Add ZigBee, Z-Wave, Bluetooth, and Wi-Fi to your Raspberry Pi with on-board sensors and an easy cloud API." 119 $6,256 / $50,000 / 12.5%
+
+
+
+
+
+RF Breakout Kit Breakout kit to build your own radio using the Rpi's built in clock generator. Frequencies up to 250Mhz 126 £1,330 / £1,800 / 72%
+
+
+
+Bridge Shield Bridge an Arduino with:
+
+RTC, Motor drivers, Temp Sensor, IR Sensor, USB-UART converter, 5V 3A Reg, header for ESP8266, header for HC-05, level shifting between Rpi and Arduino, 8 Servo Motor Driver (I2C) 45 $2,696 / $4,100 / 65.8%
+
+
+
+Pi UpTime "GPIO connections, analog ports, UPS, RTC & battery power enabling Raspberry Pi to be mobile." 17 hours of uptime on full battery, 2 analog input, RTC, and 25 $4,020 / $15,000 / 26.8%
+
+
+
+Hatlogico "Open-source 16 PWMs, 8 ADCs and dual-voltage communications to sit on your Raspberry Pi to drive your quadcopter, robot, 3D printer etc" 42 £1,352 / £4,800 / 48.3%
+
+
+
+BattPi "BattPi is a Case for Raspberry Pi with integrated Battery and Real Time Clock. Built in UPS offering up to 8 hours of battery life." 34 £1,973 / £20,000 / 9.9%
+
+
+
+ProtoPLC Industrial add-on board. 6 inputs, 6 outputs, 1 analog input, 1 analog output, programmable leds. 28 $3,653 / $20,000 / 18.3%
+
+
+
+Raspitab Hackable tablet built from the Rpi Module with 3400mah battery, 7" screen, wifi usb, 5MP camera module. 87 £9,981 / £125,000 / 8%
+
+
+
+Pi-Home Add-on board with the ability to control: Zwave, Infra-red devices (TV/DVD..), RF Device (315/433 Mhz Plugs), and Zigbee devices. 80 $10,001 / $15,000 / 66.7%
+
+
+
+TX-1 GSM Cellular phone w/GPS add-on module. 5 $641 / $14,000 / 4.6%
+
+
+
+HDMI Input Module "Add an HDMI input interface to your Raspberry Pi and record or stream high quality video from your HD camcorder with clean HDMI output." 63 $6,907 / $15,000 / 34.5%
+
+
+
+easyPio GPIO breakout module for prototyping. 45 £329 / £1,200 / 27%
+
+
+
+RasPoE Raspberry Pi PoE Shield. 28 €3,310 / €12,500 / 26.5%
+
+
+
+If you're looking to crowdfund your Raspberry Pi project maybe you can learn what didn't go right for these projects. Here is a list of hardware projects that didn't get funded. This list was pulled from the two top crowdfunding sites Indiegogo and Kickstarter . This isn't all of the projects that I had found but some of the more interesting ones.*Note items in the list may have been re-listed later and funded. Some projects may have been ahead of their time as the Pi wasn't popular enough.

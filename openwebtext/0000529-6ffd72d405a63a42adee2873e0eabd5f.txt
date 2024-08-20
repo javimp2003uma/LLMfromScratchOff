@@ -1,0 +1,51 @@
+Emma Mærsk is the first container ship in the E-class of eight owned by the A. P. Moller-Maersk Group. When launched in 2006 she was the largest container ship ever built, and in 2010 she and her seven sister ships were among the longest container ships. Officially, she is able to carry around 11,000 twenty-foot equivalent units (TEU) or 14,770 TEU depending on definition. In May 2010, her sister ship Ebba Mærsk set a record of 15,011 TEU in Tanger-Med, Tangiers.[3]
+
+History [ edit ]
+
+Emma Mærsk was built at the Odense Steel Shipyard in Denmark. In June 2006, during construction, welding work caused a fire within the superstructure.[4] It spread rapidly through the accommodation section and bridge, which delayed her completion by six to seven weeks.
+
+She was named in a ceremony on 12 August 2006, after Mærsk Mc-Kinney Møller's late wife, Emma. She set sail on her maiden voyage on 8 September 2006 at 02:00 hours from Aarhus, calling at Gothenburg, Bremerhaven, Rotterdam, Algeciras, the Suez Canal, and arrived in Singapore on 1 October 2006 at 20:05 hours. She sailed the next day for Yantian in Shenzhen, then Kobe, Nagoya, arriving at Yokohama on 10 October 2006, and returning via Shenzhen, Hong Kong, Tanjung Pelepas, the Suez Canal, Felixstowe, Rotterdam, Bremerhaven, Gothenburg to Aarhus, arriving on 11 November 2006 at 16:00 hours.[5]
+
+She appeared in headlines prior to Christmas 2006, when she was dubbed SS Santa because she was bound for the United Kingdom from China loaded with Christmas goods. The return journey to southern China was loaded with UK waste for recycling.[6]
+
+Her appearance in the news prompted the State Environmental Protection Administration in China to promise to "closely watch the progress of investigation into the dumping of garbage in south China by Britain". Ministry officials added that no official approval had been given to any company in the area to import waste.[7]
+
+In 2008, the ship was featured on an episode of the television documentary series Mighty Ships, during a voyage between Malaysia and Spain.[8]
+
+In 2011, the National Bank of Denmark issued a 20 DKK commemorative coin for her.[9]
+
+Going eastwards on 1 February 2013, she suffered a damaged stern thruster and took on so much water in the Suez Canal that she became unmaneuvrable. Tugs, anchors and the wind[10] took her to Port Said to offload 13,500 containers, drain her and be investigated by divers. She had not been in danger of sinking.[11][12][13][14][15]
+
+On 15 February 2013, Maersk Line confirmed that she was about to leave Port Said under tow to a yard for further assessment and repair.[16] On 25 February she reached the yard of Palermo, Sicily, where she was scheduled to stay for four months.[17] In August 2013, she was in service again[18] after a DKK 250 million (roughly US$44.5m) repair.[19]
+
+Capacity [ edit ]
+
+Originally Maersk reported a capacity of 11,000 TEU (twenty-foot equivalent units) as the maximum capacity of fully loaded 14 ton containers, according to Maersk company's then method of calculating capacity,[20] which, at her introduction into service, was about 1,400 more containers than any other ship.[21] However, Maersk also acknowledges the standard method of defining capacity, stating 14,770 TEU.[22]
+
+By normal calculations, she has a capacity significantly greater than reported—between 13,500 and 15,200 TEU.[23][24] The difference between the official and estimated numbers is because Maersk calculates the capacity of a container ship by weight (in this case, 14 tons/container), i.e. 11,000+ containers,[25] of which 1,000 can be refrigerated containers.[26]
+
+Other companies calculate capacity according to the maximum number of containers that can be carried irrespective of weight, always greater than the number calculated by the Maersk method.[citation needed] As of 2012, the E-class is still the largest by full-weight 14-tonne capacity. The Marco Polo can carry 10,000 14-t containers, 16,020 if not fully loaded.[27][28]
+
+On 21 February 2011, Maersk ordered a family of ten even larger ships from Daewoo, the Maersk Triple E class, with a capacity of 18,000 containers. A further ten ships were ordered in June 2011. The first was delivered in 2013.[29][30]
+
+Engine and hull [ edit ]
+
+She is powered by a Wärtsilä-Sulzer 14RTFLEX96-C engine, the world's largest single diesel unit, weighing 2,300 tonnes and capable of 81 MW (109,000 hp) when burning 14,000 litres (3,600 US gal)[31] of heavy fuel oil per hour. At economical speed, fuel consumption is 0.260 bs/hp·hour (1,660 gal/hour).[32] She has features to lower environmental damage, including exhaust heat recovery and cogeneration.[33] Some of the exhaust gases are returned to the engine to improve economy and lower emissions,[34] and some are passed through a steam generator which then powers a Peter Brotherhood steam turbine and electrical generators. This creates an electrical output of 8.5 MW,[35] equivalent to about 12% of the main engine power output. Some of this steam is used directly as shipboard heat.[36] Five diesel generators together produce 20.8 MW,[35] giving a total electric output of 29 MW.[26] Two 9 MW electric motors augment the power on the main propeller shaft.[35]
+
+Two bow and two stern thrusters provide port manoeuvrability, and two pairs of stabilizer fins reduce rolling.[35] A special silicone-based paint, instead of biocides used by much of the industry, keeps barnacles off of the hull.[21] This increases her efficiency by reducing drag while also protecting the ocean from biocides that may leak. The paint is credited with lowering the water drag enough to save 1,200 tonnes of fuel per year.[37] The ship has a bulbous bow, a standard feature for cargo ships.
+
+The turning diameter at 44 km/h (24 knots) is 1.50 km (0.81 nmi). The engine is near midship to make best use of the rigidity of the hull and to maximize capacity. When banking 20 degrees, the bridge sways 35 metres.[38]
+
+Sailing schedules [ edit ]
+
+Her regular round trip is between northern Europe and the far east via the English Channel, the Strait of Gibraltar and the Suez Canal, calling at Ningbo, Xiamen, Hong Kong (westbound), Yantian (westbound), Algeciras (westbound), Rotterdam, Bremerhaven, Algeciras (eastbound), Yantian (eastbound), Hong Kong (eastbound), and Ningbo.[5][39][40]
+
+As of April 2011 , the schedule included Gdańsk, Aarhus, and Gothenburg.[41]
+
+Criticism [ edit ]
+
+She and similar ships have been criticised for burning bunker fuel, which has a high sulphur content,[42] 2.5 to 4.5%, over 2,000 times more than allowed in automotive fuel.[42]
+
+In Europe, new rules regarding the operation of marine shipping will require ships to burn cleaner fuel. MARPOL Regulation 14 will limit global sulphur content to 0.5% in 2020. However, a review of global fuel availability due to conclude in 2018 may delay the new regulations by five years, until 2025.[43]
+
+See also [ edit ]

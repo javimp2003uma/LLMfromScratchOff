@@ -1,0 +1,21 @@
+What if I want to build everything in ClojureScript
+
+JiyinYiyong Blocked Unblock Follow Following May 31, 2017
+
+Many things have changed since I wrote this post, check out updates on shadow-cljs. That’s might be promising.
+
+JavaScript is becoming more and more mature. For front-end, React/Anguar/Vue are capable of building middle-size or even large apps, with help of all kinds of components and libraries. Deploying webapps is never easier, Webpack has almost all the features we need. For backend, Node.js ecosystem has been evolving since 2009, we have Express and Koa, with all kinds of middlewares. No mention how many developers are participating in “rewriting everything in JavaScript”.
+
+JavaScript is a messy world. Mixed language paradigms, inconsistent languages features, lots of innovations toward different and sometimes opposite directions. It’s hard to get well with such an inconsistent programming language. However, it turned out people like to use it thanks to its successful ecosystem.
+
+ClojureScript is in a different situation. We have faith in functional programming but there’s not a large community to support it. Here’s the problem in me. I want to build websites with only ClojureScript. How can I achieve that?
+
+For front-end, ClojureScript libraries and components are relatively rare(or at least hard to find many of them on Google). Yes we can use use JavaScript libraries and components. However it’s not always true. Take an example from React and Vue, which are both in JavaScript, but it’s impractical to share components from each other. I saw people using React components in Reagent or Rum many times. I was convinced it’s possible. But I don’t think it’s easy since we may need so many components.
+
+For backend it’s worse. People are using Clojure to build web servers. Being a JavaScript developer there are lots of barriers if I want to pick up the whole Java ecosystem. Developing and debugging Clojure is a lot different from ClojureScript. And for web servers, the JavaScript community is throwing away expressing and going toward Koa with async/await support, while in ClojureScript it’s core.async , a lot different. We can still Google and find blogs and projects on using React components in ClojureScript, but it’s fewer results for Node.js, besides, how about the framework and libraries? And I’m not sure about the database part either.
+
+It’s not easy to believe in ClojureScript. To see JavaScript developers using create-react-app, using Koa, although slowly but most aspects of developing are covered by people who went ahead. In using ClojureScript, I have to take every step very carefully, sometimes in debugging without SourceMaps on variables, sometimes worried about where to find guides and docs, sometimes anxious about people misunderstanding my work.
+
+I will still pick ClojureScript as the primary language for my personal projects. Also I’m fully aware that it adds limits to me so someday I still need to pick up some other languages to finish my work. It will be my big problem in the near future. I already see it and it made me feel sad that I can only write fast in ClojureScript. ClojureScript has some unique features that help me finished Stack Editor and Cumulo, but also trapped me here. I do hope that I learnt ClojureScript I can program all things I need, it’s always not true for any language.
+
+Now I have to consider what to do next. In the past years I built many toy apps, none of them reached the complexity of real-world products. I have to learn such ability. Bet on ClojureScript or another?
