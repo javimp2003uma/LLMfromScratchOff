@@ -1,4 +1,0 @@
-https://medium.com/@amanatulla1606/transformer-architecture-explained-2c49e2257b4c
-https://arxiv.org/pdf/1706.03762
-https://www.youtube.com/watch?v=SZorAJ4I-sA
-https://www.google.com/url?sa=i&url=https%3A%2F%2Faiml.com%2Fexplain-the-transformer-architecture%2F&psig=AOvVaw3_2WjOrzqsQ5favxNHs2eR&ust=1723633859023000&source=images&cd=vfe&opi=89978449&ved=0CBcQjhxqFwoTCKD3itHq8YcDFQAAAAAdAAAAABAE
