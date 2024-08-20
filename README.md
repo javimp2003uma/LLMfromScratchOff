@@ -4,7 +4,9 @@
 
 ## Overview
 
-Welcome to the **Language Model from Scratch** project! This repository is dedicated to the development of a sophisticated language model designed for advanced text understanding and generation. Using PyTorch and other essential libraries, our goal is to build a robust model capable of processing and generating human-like text with high accuracy. This project encompasses all stages of model development, including data preprocessing, architecture design, training, evaluation, and deployment. Before starting the specifications, I would like to thank Sebastian Raschka for his book ‘Build a Large Language Model’, which has inspired me in this project and, together with other supporting documents and videos, has allowed me to carry it out.
+Welcome to the **Language Model from Scratch** project! This repository is dedicated to the development of a sophisticated language model designed for advanced text understanding and generation. Using PyTorch and other essential libraries, our goal is to build a robust model capable of processing and generating human-like text with high accuracy. This project encompasses all stages of model development, including data preprocessing, architecture design, training, evaluation, and deployment. 
+
+Before diving into the details, I would like to extend my gratitude to Sebastian Raschka for his inspiring book *‘Build a Large Language Model’*. His work, along with various supporting documents and videos, has greatly contributed to the success of this project.
 
 ## Features ✨
 
@@ -23,6 +25,7 @@ Welcome to the **Language Model from Scratch** project! This repository is dedic
 - [Training](#training)
 - [Deployment](#deployment)
 - [Contributing](#contributing)
+- [Bibliography](#bibliography)
 
 ## Installation 💻
 
@@ -31,32 +34,32 @@ Welcome to the **Language Model from Scratch** project! This repository is dedic
     ```sh
     git clone https://github.com/javimp2003uma/LLMfromscratch
     ```
-3. Navigate to the project directory:
+2. Navigate to the project directory:
    
     ```sh
     cd LLMfromscratch
     ```
-6. (Optional) Create a virtual environment:
+3. (Optional) Create a virtual environment:
 
-   ```sh
+    ```sh
     python -m venv venv
-    .\venv\Scripts\activate  # On macOS/Linux use 'python -m venv venv
-                                                   source venv/bin/activate'
+    .\venv\Scripts\activate  # On macOS/Linux use 'source venv/bin/activate'
     ```
 
-5. Select venv as your python interpreter (in VSC):
+4. Select `venv` as your Python interpreter (in Visual Studio Code):
    
     ```sh
     > Python: Select Interpreter
     .\venv\Scripts\python.exe # On macOS/Linux use './venv/bin/python'
     ```
-8. Install the required packages:
+
+5. Install the required packages:
    
     ```sh
     pip install -r requirements.txt
     ```
 
-7. If you want to do a pull request which implies adding more dependencias, remember to update the requirements file using:
+6. If you make changes that require additional dependencies, remember to update the `requirements.txt` file:
    
     ```sh
     pip freeze > requirements.txt
@@ -64,17 +67,34 @@ Welcome to the **Language Model from Scratch** project! This repository is dedic
 
 ## Usage 📜
 
-Details on how to use the model for training, evaluation, and inference will be provided in this section. Instructions include command-line usage, sample scripts, and API integration guidelines.
+This section provides instructions for using the model for various tasks, including training, evaluation, and inference.
+
+### Example Usage
+
+1. **Training the Model**: 
+    ```sh
+    python train.py --config config/train_config.yaml
+    ```
+
+2. **Evaluating the Model**: 
+    ```sh
+    python evaluate.py --model_path models/my_model.pth --data_path data/eval_data.json
+    ```
+
+3. **Generating Text**: 
+    ```sh
+    python generate.py --model_path models/my_model.pth --prompt "The future of AI is"
+    ```
 
 ## Data 📊
 
-The dataset used for training and evaluation is specifically curated for the domain of animal nutrition. It includes a comprehensive collection of questions and answers related to various aspects of animal nutrition, including dietary requirements, nutrient functions, and metabolic processes.
+The dataset used for training and evaluation is curated for the domain of animal nutrition. It includes a comprehensive collection of questions and answers related to various aspects of animal nutrition, including dietary requirements, nutrient functions, and metabolic processes.
 
 ### Dataset Details
 
-- **Source**: The dataset consists of text data extracted from scientific literature and educational resources on animal nutrition. It's part of a HuggingFace repository for datasets [here](https://huggingface.co/datasets/A2H0H0R1/Animal-nutrition)
-- **Preprocessing**: Text data has been cleaned and formatted to ensure consistency and remove any irrelevant information. Key preprocessing steps include tokenization, normalization, and handling special characters.
-- **Format**: The dataset is structured in a question-answer format, with each entry consisting of a question followed by a detailed answer. The data is provided in JSON format for ease of use.
+- **Source**: The dataset is derived from scientific literature and educational resources on animal nutrition. It is available as part of a HuggingFace repository for datasets [here](https://huggingface.co/datasets/A2H0H0R1/Animal-nutrition).
+- **Preprocessing**: The text data has been cleaned and formatted to ensure consistency and remove irrelevant information. Key preprocessing steps include tokenization, normalization, and handling special characters.
+- **Format**: The dataset is structured in a question-answer format, with each entry containing a question followed by a detailed answer. The data is provided in JSON format for ease of use.
 - **Example Entry**:
     ```json
     {
@@ -85,34 +105,45 @@ The dataset used for training and evaluation is specifically curated for the dom
 
 ## Model Architecture 🧠
 
-The model is designed with a custom architecture optimized for understanding and generating text related to animal nutrition. 
+The model features a custom architecture optimized for understanding and generating text related to animal nutrition.
 
 ### Key Components
 
-- **Embedding Layers**: Transform input tokens into dense vectors.
-- **Transformer Blocks**: Use multi-head self-attention and feed-forward layers to capture complex patterns in the text.
-- **Positional Encoding**: Add positional information to token embeddings to account for the order of tokens.
-- **Output Layers**: Generate probabilities for each token in the vocabulary based on the model's understanding of the input context.
+- **Embedding Layers**: Convert input tokens into dense vectors.
+- **Transformer Blocks**: Utilize multi-head self-attention and feed-forward layers to capture complex text patterns.
+- **Positional Encoding**: Incorporate positional information into token embeddings to account for token order.
+- **Output Layers**: Produce probabilities for each token in the vocabulary based on the model's context understanding.
 
 ### Configuration
 
-The model's architecture and hyperparameters are specified in configuration files located in the `config` directory. Key parameters include the number of transformer layers, the size of the embedding vectors, and the number of attention heads.
+Model architecture and hyperparameters are specified in configuration files located in the `config` directory. Key parameters include the number of transformer layers, embedding vector size, and number of attention heads.
 
 ## Training 🏋️‍♀️
 
-Training the model involves several key steps to ensure optimal performance.
+Training involves several key steps to ensure optimal performance.
 
 ### Training Pipeline
 
-1. **Data Loading**: Efficient loading and batching of data to handle large datasets.
-2. **Loss Calculation**: Use cross-entropy loss to measure the difference between predicted and actual tokens.
-3. **Optimization**: Employ techniques such as gradient clipping and learning rate scheduling to enhance training stability.
-4. **Checkpointing**: Save model checkpoints at regular intervals to allow resuming training or evaluating different stages.
+1. **Data Loading**: Efficiently load and batch data to manage large datasets.
+2. **Loss Calculation**: Employ cross-entropy loss to measure the difference between predicted and actual tokens.
+3. **Optimization**: Utilize gradient clipping and learning rate scheduling to enhance training stability.
+4. **Checkpointing**: Save model checkpoints regularly to resume training or evaluate different stages.
 
 ## Deployment 🚀
 
-There are 3 Jupyter notebooks on the project. Once the libraries and depencies are ready (requierements.txt), you can run the notebooks and see the results. At the end of the last one, the model trained is exported into your machine has GPTtrained.pth, as Pytorch model files are supossed to.
+The project includes three Jupyter notebooks. After setting up the libraries and dependencies (as specified in `requirements.txt`), you can run the notebooks to observe the results. At the end of the final notebook, the trained model is exported as `GPTtrained.pth`, which is the standard PyTorch model file format.
 
 ## Contributing 🤝
 
-I welcome contributions to this project! Please refer to our [contributing guidelines](CONTRIBUTING.md) for information on how to submit pull requests, report issues, and adhere to our code of conduct.
+Contributions are welcome! Please refer to our [contributing guidelines](CONTRIBUTING.md) for details on submitting pull requests, reporting issues, and adhering to our code of conduct.
+
+## Bibliography 📚
+
+- [Transformer Architecture Explained](https://medium.com/@amanatulla1606/transformer-architecture-explained-2c49e2257b4c)
+- [Attention is All You Need](https://arxiv.org/pdf/1706.03762)
+- [YouTube Video on Transformer Architecture](https://www.youtube.com/watch?v=SZorAJ4I-sA)
+- [AIML Explanation of Transformer Architecture](https://www.google.com/url?sa=i&url=https%3A%2F%2Faiml.com%2Fexplain-the-transformer-architecture%2F&psig=AOvVaw3_2WjOrzqsQ5favxNHs2eR&ust=1723633859023000&source=images&cd=vfe&opi=89978449&ved=0CBcQjhxqFwoTCKD3itHq8YcDFQAAAAAdAAAAABAE)
+
+---
+
+Thank you very much for visiting the repository of the project and I hope that if you are a beginner like me in the magnificent world of LLMs, this will serve as a push to start learning.
