@@ -72,7 +72,7 @@ The dataset used for training and evaluation is specifically curated for the dom
 
 ### Dataset Details
 
-- **Source**: The dataset consists of text data extracted from scientific literature and educational resources on animal nutrition.
+- **Source**: The dataset consists of text data extracted from scientific literature and educational resources on animal nutrition. It's part of a HuggingFace repository for datasets [here](https://huggingface.co/datasets/A2H0H0R1/Animal-nutrition)
 - **Preprocessing**: Text data has been cleaned and formatted to ensure consistency and remove any irrelevant information. Key preprocessing steps include tokenization, normalization, and handling special characters.
 - **Format**: The dataset is structured in a question-answer format, with each entry consisting of a question followed by a detailed answer. The data is provided in JSON format for ease of use.
 - **Example Entry**:
