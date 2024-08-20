@@ -52,6 +52,9 @@ Before diving into the details, I would like to extend my gratitude to [Sebastia
     > Python: Select Interpreter
     .\venv\Scripts\python.exe # On macOS/Linux use './venv/bin/python'
     ```
+    ```
+    source venv/bin/activate
+    ```
 
 5. Install the required packages:
    
@@ -64,6 +67,10 @@ Before diving into the details, I would like to extend my gratitude to [Sebastia
     ```sh
     pip freeze > requirements.txt
     ```
+7. Once the principal installation has been done, you need to "tell" Jupyter where to find the kernel as follows ...
+   ```sh
+   python3 -m ipykernel install --user --name=venv --display-name "venvLLM" where venvLLM can be whatever you want
+   ```
 
 ## Usage 📜
 
