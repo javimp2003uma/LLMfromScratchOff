@@ -74,24 +74,7 @@ Before diving into the details, I would like to extend my gratitude to [Sebastia
 
 ## Usage 📜
 
-This section provides instructions for using the model for various tasks, including training, evaluation, and inference.
-
-### Example Usage
-
-1. **Training the Model**: 
-    ```sh
-    python train.py --config config/train_config.yaml
-    ```
-
-2. **Evaluating the Model**: 
-    ```sh
-    python evaluate.py --model_path models/my_model.pth --data_path data/eval_data.json
-    ```
-
-3. **Generating Text**: 
-    ```sh
-    python generate.py --model_path models/my_model.pth --prompt "The future of AI is"
-    ```
+This section provides instructions for using the model. The repository is composed of 3 Jupyter notebooks where the concepts learned throughout the book are applied and developed. Particularly, the first 2 are part of the learning of basic concepts, although with the purpose of the project it is really important to execute them as well. The one that really develops and trains the model is trainingGPT.ipynb, which automatically executes the second one at startup.
 
 ## Data 📊
 
